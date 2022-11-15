@@ -1,0 +1,20 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+th{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+table{
+    class: center;
+    width: 100%;
+    height: 25px;
+}
